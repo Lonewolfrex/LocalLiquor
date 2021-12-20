@@ -12,7 +12,7 @@
   <name>LocalLiquor1</name>
   <description>A simple LocalLiquor1.</description>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://www.LocalLiquor.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
