@@ -6,13 +6,13 @@
 
   <groupId>LocalLiquor1</groupId>
   <artifactId>LocalLiquor1</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>First_version</version>
   <packaging>war</packaging>
   
   <name>LocalLiquor1</name>
   <description>A simple LocalLiquor1.</description>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.LocalLiquor.com</url>
+  <url>http://localhost:8089/www.LocalLiquor.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -81,13 +81,13 @@
           <artifactId>tomcat7-maven-plugin</artifactId>
           <version>2.2</version>
         </plugin> 
-<!--          <plugin>
+        <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
           <configuration>
-              <source>1.8</source>
-              <target>1.8</target>
+              <source>1.6</source>
+              <target>1.6</target>
           </configuration>
-        </plugin> -->
+        </plugin>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-war-plugin</artifactId>
