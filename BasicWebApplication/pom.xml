@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>BasicWebApplication</groupId>
   <artifactId>LocalLiquor</artifactId>
-  <version>0.1V</version>
+  <version>V1</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
