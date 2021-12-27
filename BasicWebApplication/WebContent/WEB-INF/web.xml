@@ -15,6 +15,6 @@
   </servlet>  
   <servlet-mapping>  
     <servlet-name>MyHttpTestServlet</servlet-name>  
-    <url-pattern>/welcome</url-pattern>  
+    <url-pattern>/BasicWebApplication-V1</url-pattern>  
   </servlet-mapping>  
 </web-app>  
